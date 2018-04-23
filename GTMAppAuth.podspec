@@ -44,5 +44,5 @@ requests with AppAuth.
 
   s.frameworks = 'Security', 'SystemConfiguration'
   s.dependency 'GTMSessionFetcher', '~> 1.1'
-  s.dependency 'AppAuth', :git => 'https://github.com/superhuman/AppAuth-iOS.git'
+  s.dependency 'AppAuth', '~> 0.91.0'
 end
